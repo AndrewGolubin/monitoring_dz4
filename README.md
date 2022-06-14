@@ -1,7 +1,7 @@
 
 Что необходимо сделать:
 
-Сконфигурировать hearthbeat, filebeat и metricbeat:
+Сконфигурировать hearthbeat, filebeat и metricbeat.
   1.Heartbeat должен проверять доступность следующих ресурсов: otus.ru, google.com;
   2.Metricbeat должен формировать метрики на основе показателей загрузки процессора и оперативной памяти;
   3.Filebeat должен собирать логи ssh сервера. 
